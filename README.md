@@ -4,4 +4,4 @@ Our group wanted to compare fast food restaurants with average incomes in certai
 We wanted to see if there was any relationship between the number of fast food restaurants and the average income in particular areas (zip codes). The datasets were cleaned by renaming and excluding columns that were not pertinent. The datasets were then joined together on corresponding information.
 It was then loaded onto PostgreSQL relational database.
 
-Authors Nisa, Ben, Naveen, & Gin 
+Authors: Nisa, Ben, Naveen, & Gin 
