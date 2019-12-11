@@ -19,9 +19,9 @@ Project is created with:
 
 ## Authors
 * Nisa Bukhari
-* Ben
-* Naveen
-* Gin
+* Benjamin Podell
+* Naveen Mudaliar
+* Jin Joo
 
 
 ## Sources
