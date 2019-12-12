@@ -21,6 +21,9 @@ Project is created with:
 * Pandas
 * SQL
 
+![python](https://user-images.githubusercontent.com/49736893/70683234-2703ef80-1c67-11ea-8489-1a0087e5bd30.jpg)
+
+
 
 ## Authors
 * Nisa Bukhari
