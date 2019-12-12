@@ -16,7 +16,6 @@ It was then loaded onto PostgreSQL relational database.
 * [Sources](#sources)
 	
 ## Technologies
-Project is created with:
 * Python
 * Pandas
 * SQL
